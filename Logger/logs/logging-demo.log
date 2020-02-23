@@ -1,0 +1,142 @@
+2020-02-23 21:11:35 INFO  App:28 - Hello World!!!
+2020-02-23 21:11:35 DEBUG App:29 - Hello World!!!
+2020-02-23 21:11:35 WARN  App:30 - Hello World!!!
+2020-02-23 21:11:35 ERROR App:31 - Hello World!!!
+2020-02-23 21:28:32 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:28:32 INFO  App:27 - 	Select Program	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:29:21 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:29:21 INFO  App:27 - 
+		Select Program	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:29:53 INFO  App:65 - Enter Principal, RateOfInterest, Time Period (in Years) :
+
+2020-02-23 21:32:22 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:32:22 INFO  App:27 - 
+
+		Select Program	
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+		** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:34:07 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:34:07 INFO  App:27 - 
+
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+	   ** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:36:48 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:36:48 INFO  App:27 - 
+
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+	   ** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:39:46 INFO  App:64 - 
+=> Enter Principal, RateOfInterest, Time Period (in Years) :
+
+2020-02-23 21:40:09 INFO  App:38 - 
+=> Simple Interest = 120.0
+2020-02-23 21:40:09 INFO  App:51 - 
+
+=> Would You Like To Continue (y/n) : 
+2020-02-23 21:40:17 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:40:17 INFO  App:27 - 
+
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+	   ** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:40:19 INFO  App:64 - 
+=> Enter Principal, RateOfInterest, Time Period (in Years) :
+
+2020-02-23 21:40:31 INFO  App:43 - 
+=> Compound Interest = 1181.1463200000017
+2020-02-23 21:40:31 INFO  App:51 - 
+
+=> Would You Like To Continue (y/n) : 
+2020-02-23 21:40:32 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:40:32 INFO  App:27 - 
+
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+	   ** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:40:34 INFO  App:77 - 
+=> List Of Construction Plans
+2020-02-23 21:40:34 INFO  App:80 - 
+=> 1. Above Standard Material Costs 1500 per square feet
+2020-02-23 21:40:34 INFO  App:80 - 
+=> 2. Standard Material Costs 1200 per square feet
+2020-02-23 21:40:34 INFO  App:80 - 
+=> 3. High Standard Material Costs 1800 per square feet
+2020-02-23 21:40:34 INFO  App:80 - 
+=> 4. High Standard And Fully Automated Material Costs 2500 per square feet
+2020-02-23 21:40:59 INFO  App:92 - 
+=> Enter Area Of The House (Length x breadth) : 
+
+2020-02-23 21:41:07 INFO  App:96 - 
+=> Cost for construction = 288000000 INR
+2020-02-23 21:41:07 INFO  App:51 - 
+
+=> Would You Like To Continue (y/n) : 
+2020-02-23 21:41:10 INFO  App:26 - ***     Started Application      ***
+2020-02-23 21:41:10 INFO  App:27 - 
+
+		** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+	   ** Estimating House Construction Cost **
+3. Select A Construction Plan : 
+
+2020-02-23 21:41:12 INFO  App:77 - 
+=> List Of Construction Plans
+2020-02-23 21:41:12 INFO  App:80 - 
+=> 1. Above Standard Material Costs 1500 per square feet
+2020-02-23 21:41:12 INFO  App:80 - 
+=> 2. Standard Material Costs 1200 per square feet
+2020-02-23 21:41:12 INFO  App:80 - 
+=> 3. High Standard Material Costs 1800 per square feet
+2020-02-23 21:41:12 INFO  App:80 - 
+=> 4. High Standard And Fully Automated Material Costs 2500 per square feet
+2020-02-23 21:41:16 INFO  App:92 - 
+=> Enter Area Of The House (Length x breadth) : 
+
+2020-02-23 21:41:23 INFO  App:96 - 
+=> Cost for construction = 705032704 INR
+2020-02-23 21:41:23 INFO  App:51 - 
+
+=> Would You Like To Continue (y/n) : 
+2020-02-23 21:41:27 INFO  App:54 - Program Terminated Successfully
+
+
+***    Application Closed    ***
